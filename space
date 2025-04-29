@@ -1,0 +1,171 @@
+<html><head><style>.LGLeeN-keyboard-shortcuts-view{display:-webkit-box;display:-webkit-flex;display:-moz-box;display:-ms-flexbox;display:flex}.LGLeeN-keyboard-shortcuts-view table,.LGLeeN-keyboard-shortcuts-view tbody,.LGLeeN-keyboard-shortcuts-view td,.LGLeeN-keyboard-shortcuts-view tr{background:inherit;border:none;margin:0;padding:0}.LGLeeN-keyboard-shortcuts-view table{display:table}.LGLeeN-keyboard-shortcuts-view tr{display:table-row}.LGLeeN-keyboard-shortcuts-view td{-moz-box-sizing:border-box;box-sizing:border-box;display:table-cell;color:#000;padding:6px;vertical-align:middle;white-space:nowrap}.LGLeeN-keyboard-shortcuts-view td:first-child{text-align:end}.LGLeeN-keyboard-shortcuts-view td kbd{background-color:#e8eaed;border-radius:2px;border:none;-moz-box-sizing:border-box;box-sizing:border-box;color:inherit;display:inline-block;font-family:Google Sans Text,Roboto,Arial,sans-serif;line-height:16px;margin:0 2px;min-height:20px;min-width:20px;padding:2px 4px;position:relative;text-align:center}
+</style><style>.gm-control-active>img{-webkit-box-sizing:content-box;box-sizing:content-box;display:none;left:50%;pointer-events:none;position:absolute;top:50%;-webkit-transform:translate(-50%,-50%);-ms-transform:translate(-50%,-50%);transform:translate(-50%,-50%)}.gm-control-active>img:nth-child(1){display:block}.gm-control-active:focus>img:nth-child(1),.gm-control-active:hover>img:nth-child(1),.gm-control-active:active>img:nth-child(1),.gm-control-active:disabled>img:nth-child(1){display:none}.gm-control-active:focus>img:nth-child(2),.gm-control-active:hover>img:nth-child(2){display:block}.gm-control-active:active>img:nth-child(3){display:block}.gm-control-active:disabled>img:nth-child(4){display:block}sentinel{}
+</style><link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Google+Sans:400,500,700|Google+Sans+Text:400,500,700&amp;lang=en"><link type="text/css" rel="stylesheet" href="https://fonts.googleapis.com/css?family=Google+Sans+Text:400&amp;text=%E2%86%90%E2%86%92%E2%86%91%E2%86%93&amp;lang=en"><style>.gm-style .gm-style-cc a,.gm-style .gm-style-cc button,.gm-style .gm-style-cc span,.gm-style .gm-style-mtc div{font-size:10px;-webkit-box-sizing:border-box;box-sizing:border-box}.gm-style .gm-style-cc a,.gm-style .gm-style-cc button,.gm-style .gm-style-cc span{outline-offset:3px}sentinel{}
+</style><style>@media print {  .gm-style .gmnoprint, .gmnoprint {    display:none  }}@media screen {  .gm-style .gmnoscreen, .gmnoscreen {    display:none  }}</style><style>.dismissButton{background-color:#fff;border:1px solid #dadce0;color:#1a73e8;border-radius:4px;font-family:Roboto,sans-serif;font-size:14px;height:36px;cursor:pointer;padding:0 24px}.dismissButton:hover{background-color:rgba(66,133,244,.04);border:1px solid #d2e3fc}.dismissButton:focus{background-color:rgba(66,133,244,.12);border:1px solid #d2e3fc;outline:0}.dismissButton:focus:not(:focus-visible){background-color:#fff;border:1px solid #dadce0;outline:none}.dismissButton:focus-visible{background-color:rgba(66,133,244,.12);border:1px solid #d2e3fc;outline:0}.dismissButton:hover:focus{background-color:rgba(66,133,244,.16);border:1px solid #d2e2fd}.dismissButton:hover:focus:not(:focus-visible){background-color:rgba(66,133,244,.04);border:1px solid #d2e3fc}.dismissButton:hover:focus-visible{background-color:rgba(66,133,244,.16);border:1px solid #d2e2fd}.dismissButton:active{background-color:rgba(66,133,244,.16);border:1px solid #d2e2fd;-webkit-box-shadow:0 1px 2px 0 rgba(60,64,67,.3),0 1px 3px 1px rgba(60,64,67,.15);box-shadow:0 1px 2px 0 rgba(60,64,67,.3),0 1px 3px 1px rgba(60,64,67,.15)}.dismissButton:disabled{background-color:#fff;border:1px solid #f1f3f4;color:#3c4043}sentinel{}
+</style><style>.gm-style-moc{background-color:rgba(0,0,0,.59);pointer-events:none;text-align:center;-webkit-transition:opacity ease-in-out;transition:opacity ease-in-out}.gm-style-mot{color:white;font-family:Roboto,Arial,sans-serif;font-size:22px;margin:0;position:relative;top:50%;transform:translateY(-50%);-webkit-transform:translateY(-50%);-ms-transform:translateY(-50%)}sentinel{}
+</style><style>.gm-style img{max-width: none;}.gm-style {font: 400 11px Roboto, Arial, sans-serif; text-decoration: none;}</style><script src="https://connect.facebook.net/en_US/sdk.js?hash=6eb722ce7c28009d860e1c3b63fdaf5d" async="" crossorigin="anonymous"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-GGLBJSQC5G&amp;cx=c&amp;_slc=1"></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Cartogracy</title>
+    <meta name="description" content="An interactive map of current events, visually conveying complex socio-political situations world-wide. Discover the causes you care about and explore our curated collection of documentaries, infographics, and articles.">
+    <meta name="keywords" content="conflicts, news map, insurgency, riots, civic unrest, interactive map, conflict map, global conflicts, popular uprising, world news">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:title" content="Cartogracy - Interactive Map of Current Events">
+    <meta property="og:site_name" content="Cartogracy">
+    <meta property="og:url" content="http://cartogracy.com">
+    <meta property="og:description" content="An interactive map of current events, visually conveying complex socio-political situations world-wide. Discover the causes you care about and explore our curated collection of documentaries, infographics, and articles.">
+    <meta property="og:image" content="http://cartogracy.com/assets/logos/logo-md_notxt.jpg">
+    <meta property="og:app_id" content="708314385867271">
+    <meta property="og:type" content="website">
+    <meta property="og:locale" content="en_US">
+    <meta name="fragment" content="!">
+    
+    <base href="/">
+<meta name="cartogracy-v3/config/environment" content="%7B%22modulePrefix%22%3A%22cartogracy-v3%22%2C%22environment%22%3A%22production%22%2C%22baseURL%22%3A%22/%22%2C%22locationType%22%3A%22history%22%2C%22EmberENV%22%3A%7B%22FEATURES%22%3A%7B%7D%7D%2C%22APP%22%3A%7B%22name%22%3A%22cartogracy-v3%22%2C%22version%22%3A%220.0.0.d27e6aca%22%7D%2C%22DB%22%3A%7B%22api%22%3A%22http%3A//54.165.129.241/api/%22%7D%2C%22contentSecurityPolicyHeader%22%3A%22Content-Security-Policy%22%2C%22contentSecurityPolicy%22%3A%7B%22default-src%22%3A%22%27none%27%22%2C%22script-src%22%3A%22%27self%27%20%27unsafe-eval%27%20%27unsafe-inline%27%20*.google.com%20*.googleapis.com%20*.google-analytics.com%20*.gstatic.com%20*.disqus.com%20*.disquscdn.com%20*.facebook.net%20*.facebook.com%20*.twitter.com%22%2C%22font-src%22%3A%22%27self%27%20*.gstatic.com%22%2C%22connect-src%22%3A%22*%22%2C%22img-src%22%3A%22*%22%2C%22style-src%22%3A%22%27self%27%20%27unsafe-inline%27%20*.googleapis.com%22%2C%22media-src%22%3A%22%27self%27%22%2C%22frame-src%22%3A%22%27self%27%20*.google.com%20*.vimeo.com%20*.youtube.com%20*.youtube-nocookie.com%20*.disqus.com%20*.facebook.com%20*.facebook.net%20*.twitter.com%20*.hulu.com%20*.nytimes.com%20*.ooyala.com%20*.mtvnservices.com%20*.pbs.org%20%22%7D%2C%22torii%22%3A%7B%22sessionServiceName%22%3A%22session%22%2C%22providers%22%3A%7B%22facebook-oauth2%22%3A%7B%22apiKey%22%3A%22708314385867271%22%2C%22redirectUri%22%3A%22http%3A//cartogracy.com%22%7D%2C%22facebook-connect%22%3A%7B%22appId%22%3A%22708314385867271%22%2C%22scope%22%3A%22email%2Cuser_birthday%22%7D%7D%7D%2C%22exportApplicationGlobal%22%3Afalse%7D">
+
+    <script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://maps.googleapis.com/maps/api/js"></script>
+    <script type="text/javascript">
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+    ga('create', 'UA-48008900-2', 'auto');
+    ga('require', 'displayfeatures');
+    ga('send', 'pageview');
+    </script>
+    <link href="http://fonts.googleapis.com/css?family=Roboto:100,300,400,500" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=PT+Serif:400,700" rel="stylesheet" type="text/css">
+    <link href="http://fonts.googleapis.com/css?family=Cinzel:400,700" rel="stylesheet" type="text/css">
+
+    <link rel="stylesheet" href="assets/vendor-d41d8cd98f00b204e9800998ecf8427e.css">
+    <link rel="stylesheet" href="assets/cartogracy-v3-1d714ae5913322bf6be918930f1e7132.css">
+
+    
+  <style type="text/css" data-fbcssmodules="css:fb.css.base css:fb.css.dialog css:fb.css.iframewidget">.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0px;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:'lucida grande', tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_hidden{position:absolute;top:-10000px;z-index:10001}.fb_reposition{overflow:hidden;position:relative}.fb_invisible{display:none}.fb_reset{background:none;border:0px;border-spacing:0;color:#000;cursor:auto;direction:ltr;font-family:'lucida grande', tahoma, verdana, arial, sans-serif;font-size:11px;font-style:normal;font-variant:normal;font-weight:normal;letter-spacing:normal;line-height:1;margin:0;overflow:visible;padding:0;text-align:left;text-decoration:none;text-indent:0;text-shadow:none;text-transform:none;visibility:visible;white-space:normal;word-spacing:normal}.fb_reset>div{overflow:hidden}@keyframes fb_transform{from{opacity:0;transform:scale(.95)}to{opacity:1;transform:scale(1)}}.fb_animate{animation:fb_transform .3s forwards}
+.fb_dialog{background:rgba(82,82,82,.7);position:absolute;top:-10000px;z-index:10001}.fb_dialog_advanced{border-radius:8px;padding:10px}.fb_dialog_content{background:#fff;color:#373737}.fb_dialog_close_icon{background:url(https://connect.facebook.net/rsrc.php/v4/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 0 transparent;cursor:pointer;display:block;height:15px;position:absolute;right:18px;top:17px;width:15px}.fb_dialog_mobile .fb_dialog_close_icon{left:5px;right:auto;top:5px}.fb_dialog_padding{background-color:transparent;position:absolute;width:1px;z-index:-1}.fb_dialog_close_icon:hover{background:url(https://connect.facebook.net/rsrc.php/v4/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -15px transparent}.fb_dialog_close_icon:active{background:url(https://connect.facebook.net/rsrc.php/v4/yq/r/IE9JII6Z1Ys.png) no-repeat scroll 0 -30px transparent}.fb_dialog_iframe{line-height:0}.fb_dialog_content .dialog_title{background:#6d84b4;border:1px solid #365899;color:#fff;font-size:14px;font-weight:bold;margin:0}.fb_dialog_content .dialog_title>span{background:url(https://connect.facebook.net/rsrc.php/v4/yd/r/Cou7n-nqK52.gif) no-repeat 5px 50%;float:left;padding:5px 0 7px 26px}body.fb_hidden{height:100%;left:0px;margin:0px;overflow:visible;position:absolute;top:-10000px;transform:none;width:100%}.fb_dialog.fb_dialog_mobile.loading{background:url(https://connect.facebook.net/rsrc.php/v4/ya/r/3rhSv5V8j3o.gif) white no-repeat 50% 50%;min-height:100%;min-width:100%;overflow:hidden;position:absolute;top:0;z-index:10001}.fb_dialog.fb_dialog_mobile.loading.centered{background:none;height:auto;min-height:initial;min-width:initial;width:auto}.fb_dialog.fb_dialog_mobile.loading.centered #fb_dialog_loader_spinner{width:100%}.fb_dialog.fb_dialog_mobile.loading.centered .fb_dialog_content{background:none}.loading.centered #fb_dialog_loader_close{clear:both;color:white;display:block;font-size:18px;padding-top:20px}#fb-root #fb_dialog_ipad_overlay{background:rgba(0,0,0,.4);bottom:0;left:0;min-height:100%;position:absolute;right:0;top:0;width:100%;z-index:10000}#fb-root #fb_dialog_ipad_overlay.hidden{display:none}.fb_dialog.fb_dialog_mobile.loading iframe{visibility:hidden}.fb_dialog_mobile .fb_dialog_iframe{position:sticky;top:0}.fb_dialog_content .dialog_header{background:linear-gradient(from(#738aba), to(#2c4987));border-bottom:1px solid;border-color:#043b87;box-shadow:white 0px 1px 1px -1px inset;color:#fff;font:bold 14px Helvetica, sans-serif;text-overflow:ellipsis;text-shadow:rgba(0,30,84,.296875) 0px -1px 0px;vertical-align:middle;white-space:nowrap}.fb_dialog_content .dialog_header table{height:43px;width:100%}.fb_dialog_content .dialog_header td.header_left{font-size:12px;padding-left:5px;vertical-align:middle;width:60px}.fb_dialog_content .dialog_header td.header_right{font-size:12px;padding-right:5px;vertical-align:middle;width:60px}.fb_dialog_content .touchable_button{background:linear-gradient(from(#4267b2), to(#2a4887));background-clip:padding-box;border:1px solid #29487d;border-radius:3px;display:inline-block;line-height:18px;margin-top:3px;max-width:85px;padding:4px 12px;position:relative}.fb_dialog_content .dialog_header .touchable_button input{background:none;border:none;color:white;font:bold 12px Helvetica, sans-serif;margin:2px -12px;padding:2px 6px 3px 6px;text-shadow:rgba(0,30,84,.296875) 0px -1px 0px}.fb_dialog_content .dialog_header .header_center{color:#fff;font-size:16px;font-weight:bold;line-height:18px;text-align:center;vertical-align:middle}.fb_dialog_content .dialog_content{background:url(https://connect.facebook.net/rsrc.php/v4/y9/r/jKEcVPZFk-2.gif) no-repeat 50% 50%;border:1px solid #4a4a4a;border-bottom:0;border-top:0;height:150px}.fb_dialog_content .dialog_footer{background:#f5f6f7;border:1px solid #4a4a4a;border-top-color:#ccc;height:40px}#fb_dialog_loader_close{float:left}.fb_dialog.fb_dialog_mobile .fb_dialog_close_icon{visibility:hidden}#fb_dialog_loader_spinner{animation:rotateSpinner 1.2s linear infinite;background-color:transparent;background-image:url(https://connect.facebook.net/rsrc.php/v4/yD/r/t-wz8gw1xG1.png);background-position:50% 50%;background-repeat:no-repeat;height:24px;width:24px}@keyframes rotateSpinner{0%{transform:rotate(0deg)}100%{transform:rotate(360deg)}}
+.fb_iframe_widget{display:inline-block;position:relative}.fb_iframe_widget span{display:inline-block;position:relative;text-align:justify}.fb_iframe_widget iframe{position:absolute}.fb_iframe_widget_fluid_desktop,.fb_iframe_widget_fluid_desktop span,.fb_iframe_widget_fluid_desktop iframe{max-width:100%}.fb_iframe_widget_fluid_desktop iframe{min-width:220px;position:relative}.fb_iframe_widget_lift{z-index:1}.fb_iframe_widget_fluid{display:inline}.fb_iframe_widget_fluid span{width:100%}</style><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/60/10/common.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/60/10/util.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/60/10/map.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/60/10/marker.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/60/10/controls.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/60/10/infowindow.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/60/10/log.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/60/10/onion.js"></script><style type="text/css">@-webkit-keyframes _gm6781 {
+0% { -webkit-transform: translate3d(0px,0px,0); -webkit-animation-timing-function: ease-out; }
+50% { -webkit-transform: translate3d(0px,-20px,0); -webkit-animation-timing-function: ease-in; }
+100% { -webkit-transform: translate3d(0px,0px,0); -webkit-animation-timing-function: ease-out; }
+}
+</style></head>
+  <body class="ember-application vsc-initialized">
+    
+
+    <script src="assets/vendor-9c9819f3476be771e9dd2b322941cad6.js"></script>
+    <script src="assets/cartogracy-v3-f64e8cb5cfb14ee88b9560683896ad54.js"></script>
+
+    
+  
+
+<div id="ember395" class="ember-view"><!--NAVIGATION-->
+<nav id="nav-main">
+	<a id="ember412" class="ember-view" href="/"><img src="assets/logos/logo-sm.png" id="carto-logo"><sup>BETA</sup></a>
+	<ul>
+		<li style="display:none;"><input type="text" id="search-bar" placeholder="Search Conflicts"></li>
+		<li id="ember413" class="ember-view">ABOUT</li>
+		<li id="ember414" class="ember-view">FAQ</li>
+		<li id="ember415" class="ember-view">CONTACT US</li>
+		<li>
+			<a href="http://facebook.com/cartogracy" target="_blank"><div class="icn icn-fb"></div></a>&nbsp;
+			<a href="https://twitter.com/intent/user?screen_name=cartogracy" target="_blank"><div class="icn icn-tw"></div></a>
+		</li>
+	</ul>
+	<div class="cf"></div>
+</nav>
+<section id="about-quote">
+	<h2>
+		<span>Our Inspiration</span>
+		<hr>
+		The “overview effect” is described by astronauts as an irresistible realization upon seeing Earth from space, of the fragility and singularity of our world. National boundaries vanish, the conflicts that divide people become less important, and the need to create a planetary society with the united will to protect this "pale blue dot" becomes both obvious and imperative.
+	</h2>
+</section>
+<section id="about-principles">
+	<h2>Our Mission</h2>
+	<hr>
+	<h3>To promote&nbsp;social awareness and global citizenship — to compel everyone to care about human struggles beyond the comfort of our&nbsp;daily routines.</h3>
+	<h2>Our Principles</h2>
+	<hr>
+	<ul>
+		<li>
+			<span>1</span>
+			<h3>Equality</h3>
+			<p>Our map breaks the limits of “front page real estate” and presents struggles from around the world as event blips on a single map. Each blip is the same size and conveys the same importance, no matter their ideology, regardless of whether they are “trending”. We strive to capture every event which meets a preset threshold for its category.</p>
+		</li>
+		<li>
+			<span>2</span>
+			<h3>Objectiveness</h3>
+			<p>No speculation or talking heads, no re-framing of issues, or use of loaded words such as “terrorism”. Cartogracy presents users with hard data: lives lost, territories affected, related conflicts. We encourage readers to explore our wealth of curated content and draw their own conclusions.</p>
+		</li>
+		<li>
+			<span>3</span>
+			<h3>Intuitiveness</h3>
+			<p>Cartogracy strives to convey as much information as intuitively and concisely as possible. The foundation of our site is the conflict map, which provide context for otherwise complicated socio-political issues, and serves as navigation for an in depth look at each conflict.</p>
+		</li>
+	</ul>
+</section>
+<section id="about-team">
+	<h2>The Team</h2>
+	<hr>
+	<ul>
+<li id="ember578" class="ember-view">			<div class="easter-egg"><span class="moustache" style="background: none;"></span>
+				<img src="assets/images/team/will.jpg">
+			</div>
+			<h3>William Xu</h3>
+			<h5>Content Lead</h5>
+			<p><a href="mailto:will@cartogracy.com">will@cartogracy.com</a></p>
+</li><li id="ember579" class="ember-view">			<div class="easter-egg"><span class="moustache" style="background: none;"></span>
+				<img src="assets/images/team/jacky.jpg">
+			</div>
+			<h3>Jacky Ng</h3>
+			<h5>Technical Lead</h5>
+			<p><a href="mailto:jacky@cartogracy.com">jacky@cartogracy.com</a></p>
+</li><li id="ember580" class="ember-view">			<div class="easter-egg"><span class="moustache" style="background: none;"></span>
+				<img src="assets/images/team/yi.jpg">
+			</div>
+			<h3>Yi Xie</h3>
+			<h5>Business Lead</h5>
+			<p><a href="mailto:yi@cartogracy.com">yi@cartogracy.com</a></p>
+</li><li id="ember581" class="ember-view">			<div class="easter-egg"><span class="moustache"></span>
+				<img src="assets/images/team/scion.jpg">
+			</div>
+			<h3>Scion Li</h3>
+			<h5>Marketing/Analytics</h5>
+			<p></p>
+</li><li id="ember582" class="ember-view">			<div class="easter-egg"><span class="moustache" style="background: none;"></span>
+				<img src="assets/images/team/ron.jpg">
+			</div>
+			<h3>Ronald K. Myat</h3>
+			<h5>Business</h5>
+			<p></p>
+</li><li id="ember583" class="ember-view">			<div class="easter-egg"><span class="moustache" style="background: none;"></span>
+			 	<img src="assets/images/team/leah.jpg">
+			</div>
+			<h3>Leah Paisner</h3>
+			<h5>Editor</h5>
+			<p></p>
+</li><li id="ember584" class="ember-view">			<div class="easter-egg"><span class="moustache"></span>
+				<img src="assets/images/team/bryan.jpg">
+			</div>
+			<h3>Bryan Rudin</h3>
+			<h5>Editor</h5>
+			<p></p>
+</li><li id="ember585" class="ember-view">			<div class="easter-egg"><span class="moustache"></span>
+				<img src="assets/images/team/erick.jpg">
+			</div>
+			<h3>Erick Plascencia</h3>
+			<h5>Editor</h5>
+			<p></p>
+</li><li id="ember586" class="ember-view">			<div class="easter-egg"><span class="moustache"></span>
+				<img src="assets/images/team/morgan.jpg">
+			</div>
+			<h3>Morgan Easter</h3>
+			<h5>Editor</h5>
+			<p></p>
+</li>	</ul>
+</section>
+<!--FOOTER-->
+<footer id="footer-main">
+	Copyright Cartogracy 2014. All Rights Reserved. Contact <a href="mailto:info@cartogracy.com">info@cartogracy</a> for more information.
+</footer></div><div id="fb-root" class=" fb_reset"><div style="position: absolute; top: -10000px; width: 0px; height: 0px;"><div></div></div></div></body></html>
